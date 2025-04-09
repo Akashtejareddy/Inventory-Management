@@ -1,7 +1,6 @@
 # Inventory Management System for Small Warehouses  
 *A lightweight, web-based solution for tracking inventory, orders, and customer data in small-scale warehouses.*  
 
-![Warehouse Dashboard](media/image17.png)  
 
 ---
 
