@@ -96,6 +96,6 @@
 ---
 
 **📧 Support**: akashteja1173677@gmail.com 
-**🔗 GitHub**: [[Your Repository Link](#) ](https://github.com/Akashtejareddy/Inventory-Management) 
+**🔗 GitHub**: [https://github.com/Akashtejareddy/Inventory-Management] 
 
 *Designed for simplicity and efficiency in small warehouse operations.* 🏭  
